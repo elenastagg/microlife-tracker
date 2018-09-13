@@ -1,0 +1,31 @@
+{
+  "name": "microlife-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenastagg/microlife-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenastagg/microlife-tracker/issues"
+  },
+  "homepage": "https://github.com/elenastagg/microlife-tracker#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.5",
+    "eslint": "^4.19.1",
+    "eslint-config-mcr-codes": "^1.2.0",
+    "eslint-plugin-babel": "^5.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-react": "^7.9.1"
+  }
+}
